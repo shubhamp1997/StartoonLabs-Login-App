@@ -1,6 +1,10 @@
 # stratoonlabs
 
+<<<<<<< HEAD
 Stratoon Labs Login page by Shubham Pandey...
+=======
+Stratoon Labs Login page by Shubham Pandey........
+>>>>>>> f6e2d4cb293993740af7e0f00a7b9f92fdd0a912
 
 ## Getting Started
 
