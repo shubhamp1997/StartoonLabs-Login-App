@@ -1,6 +1,6 @@
 # stratoonlabs
 
-Stratoon Labs Login page by Shubham Pandey........
+Stratoon Labs Login page by Shubham Pandey...
 
 ## Getting Started
 
